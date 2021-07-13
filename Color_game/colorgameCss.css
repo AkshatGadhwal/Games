@@ -1,0 +1,30 @@
+﻿.boxstyle {
+    height: 24vmin;
+    width: 24vmin;
+    border: none;
+    border-radius: 20px;
+    margin: 20px 10px;
+    display:inline-block;
+}
+
+.level-btn-background
+{
+    background-color:steelblue;
+    border-radius:4px;
+    outline:none;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.row button {
+    transition: all 0.4s;
+    outline:none;
+}
+
+.row button:hover {
+    background-color:steelblue;
+}

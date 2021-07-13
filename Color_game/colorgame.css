@@ -1,0 +1,14 @@
+﻿.boxstyle {
+    height: 24vmin;
+    width: 24vmin;
+    border: none;
+    border-radius: 9px;
+    margin: 20px 10px;
+}
+
+.level-btn-background
+{
+    background-color:lightblue;
+    border-radius:4px;
+}
+
