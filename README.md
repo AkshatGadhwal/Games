@@ -1,2 +1,1 @@
-# Games
-Games in js
+# Simple Js Apps/Games
